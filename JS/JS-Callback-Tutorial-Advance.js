@@ -30,3 +30,4 @@ for (var i=0; i < test_fns.length; i++)
 (function(){
 	console.log('Function is also an Object, and the way to run a function is placing () after it');
 })();
+jjj
